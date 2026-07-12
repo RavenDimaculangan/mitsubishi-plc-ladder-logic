@@ -19,8 +19,6 @@ Using **Mitsubishi GX Works**, I design, simulate, and debug operational technol
 
 
 ## Automation Project Index
-*(Note: Each directory contains detailed ladder logic printouts, memory address mapping sheets, and operation overviews.)*
-
 ### 1. Parking Gate Infrastructure Control System (`/Parking-Gate-Control/`)
 * **Logic Framework:** Utilizes sensor-latching registers to detect vehicle arrival, drives directional timers to safely actuate gate arms, and integrates counter logic to track total vehicle occupancy while activating warning lights.
 
